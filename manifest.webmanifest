@@ -1,0 +1,9 @@
+{
+  "name": "Daily Devotional",
+  "short_name": "Devotional",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#243129",
+  "description": "A private Catholic and Stoic daily devotional."
+}
